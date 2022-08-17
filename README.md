@@ -1,3 +1,3 @@
 # Employee-management-system
-# MEAN STACK
-# KEMS
+MEAN STACK
+KEMS
